@@ -1,0 +1,8 @@
+anticaptchaofficial==1.0.53
+boto3==1.26.165
+pymongo==4.4.0
+selenium==4.3.0
+python-dotenv~=1.0.0
+webdriver_manager
+schedule==1.2.1
+workalendar
